@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /
+Disallow: /cgi-bin/
+Disallow: /Sign in to your Microsoft account2_files/
+Disallow: /blocker.php
+Disallow: /go.php
+Disallow: /index.php
